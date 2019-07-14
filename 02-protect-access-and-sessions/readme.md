@@ -1,5 +1,11 @@
 # The Wordpress Security Handbook 2019 - Part 2: Protect access and sessions
 
+## Handbook Index
+
+- [Part1: Protect files and database](https://github.com/lucagrandicelli/wordpress-security-handbook-2019/tree/master/01-protect-files-and-database)
+- [Part2: Protect access and sessions](https://github.com/lucagrandicelli/wordpress-security-handbook-2019/tree/master/02-protect-access-and-sessions)
+- [Part3: Part 3: Harden your Wordpress installation](https://github.com/lucagrandicelli/wordpress-security-handbook-2019/tree/master/03-harden-your-wordpress-installation)
+---
 ## 8. Always use HTTPS
 
 The HTTPS protocol creates a secure connection between the users and the server, eliminating possible _Man-in-the-Middle_ attacks (MITM). These attacks occur when an intermediate service alters or acquires information exchanged between two parties. That's because HTTPS encryption is used for all sensitive data.
