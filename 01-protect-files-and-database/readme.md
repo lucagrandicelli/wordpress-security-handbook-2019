@@ -17,6 +17,14 @@ So let's start building our handbook and remember: _When it comes to security, p
 
 ---
 
+## Handbook Index
+
+- [Part1: Protect files and database](https://github.com/lucagrandicelli/wordpress-security-handbook-2019/tree/master/01-protect-files-and-database)
+- [Part2: Protect access and sessions](https://github.com/lucagrandicelli/wordpress-security-handbook-2019/tree/master/02-protect-access-and-sessions)
+- [Part3: Part 3: Harden your Wordpress installation](https://github.com/lucagrandicelli/wordpress-security-handbook-2019/tree/master/03-harden-your-wordpress-installation)
+
+---
+
 **This article is not intended to be exhaustive of all situations and enviroments nor a definitive guide to your website security, thus is subject to change. Each situation should be carefully reviewed and analyzed with a security expert.**
 
 ---
