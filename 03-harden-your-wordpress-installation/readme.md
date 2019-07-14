@@ -1,5 +1,11 @@
 # The Wordpress Security Handbook 2019 - Part 3: Harden your Wordpress installation
 
+## Handbook Index
+
+- [Part1: Protect files and database](https://github.com/lucagrandicelli/wordpress-security-handbook-2019/tree/master/01-protect-files-and-database)
+- [Part2: Protect access and sessions](https://github.com/lucagrandicelli/wordpress-security-handbook-2019/tree/master/02-protect-access-and-sessions)
+- [Part3: Part 3: Harden your Wordpress installation](https://github.com/lucagrandicelli/wordpress-security-handbook-2019/tree/master/03-harden-your-wordpress-installation)
+---
 ## 16. Choose themes and plugins wisely
 
 Plugins and themes are powerful external resources that can help you increase the functionality of your WordPress site. There are hundreds of thousands available in the official repository of WordPress and on other websites. Unfortunately not all of them are examined, thus constituting a serious security problem. Often, we do not perform in-depth checks on features and codes before installing a plugin, and an unverified one may cause security breaches and conflicts.
