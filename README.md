@@ -1,5 +1,7 @@
 # The Wordpress Security Handbook 2019
 
+![The Wordpress Security Handbook](https://thepracticaldev.s3.amazonaws.com/i/uu17a9s39k2uv5zk7pve.jpg)
+
 Wondering if WordPress is safe? **The answer is yes**.
 
 WordPress uses the latest security technologies. Moreover, it is continuously updated with new versions, which often include several vulnerability patches. Finally, WordPress is monitored and run by a large community of developers to whom security is deeply at heart.
